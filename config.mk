@@ -422,14 +422,6 @@ PRODUCT_PACKAGES += \
     PGB_OutlineThumb \
     PGB_Shishu
 
-# Notification Themes
-PRODUCT_PACKAGES += \
-    NotifCyberPunk \
-    NotifDuoline \
-    NotifFluid \
-    NotifIOS \
-    NotifLayers
-
 # Power Menu Themes
 PRODUCT_PACKAGES += \
     PowerCyberPunk \
