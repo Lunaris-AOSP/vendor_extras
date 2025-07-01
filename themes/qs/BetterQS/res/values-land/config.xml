@@ -2,6 +2,5 @@
 <resources>
     <!-- Split Shade -->
     <bool name="config_use_split_notification_shade">true</bool>
-    <bool name="can_use_one_handed_bouncer">true</bool>
-    <bool name="config_skinnyNotifsInLandscape">false</bool>
+    <integer name="quick_settings_paginated_grid_num_rows">3</integer>
 </resources>
