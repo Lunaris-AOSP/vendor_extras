@@ -435,7 +435,8 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay
+    AndroidBlackThemeOverlay \
+    ImmersiveNavigationOverlay
 
 # Udfps
 #ifeq ($(TARGET_HAS_UDFPS),true)
