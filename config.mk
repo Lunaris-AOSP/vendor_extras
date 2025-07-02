@@ -380,9 +380,10 @@ PRODUCT_PACKAGES += \
     PowerIOS \
     PowerLayers
 
-# BetterQS
+# QS
 PRODUCT_PACKAGES += \
-    BetterQS
+    BetterQS \
+    QSDualTone
 
 # Themes
 PRODUCT_PACKAGES += \
