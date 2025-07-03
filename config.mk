@@ -192,11 +192,6 @@ PRODUCT_PACKAGES += \
     IconPackNostalgicSettingsOverlay \
     IconPackNostalgicSystemUIOverlay \
     IconPackNostalgicThemePickerOverlay \
-    IconPackOOSAndroidOverlay \
-    IconPackOOSLauncherOverlay \
-    IconPackOOSSettingsOverlay \
-    IconPackOOSSystemUIOverlay \
-    IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
