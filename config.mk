@@ -57,7 +57,6 @@ PRODUCT_PACKAGES += \
     IconPackOutlineSystemUIOverlay \
     IconPackPUIAndroidOverlay \
     IconPackPUILauncherOverlay \
-    IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackPUIThemePickerOverlay \
     IconPackPlumpyAndroidOverlay \
@@ -221,8 +220,8 @@ PRODUCT_PACKAGES += \
     NavbarTecnoCamonPixelLauncherOverlay
 
 # Notification Themes
-PRODUCT_PACKAGES += \
-    NotifFluid
+#PRODUCT_PACKAGES += \
+#    NotifFluid
 
 # Power Menu Themes
 PRODUCT_PACKAGES += \
