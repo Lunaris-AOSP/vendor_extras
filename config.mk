@@ -233,7 +233,8 @@ PRODUCT_PACKAGES += \
 # QS
 PRODUCT_PACKAGES += \
     BetterQS \
-    QSDualTone
+    QSDualTone \
+    QSNoAlpha
 
 # Themes
 PRODUCT_PACKAGES += \
