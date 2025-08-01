@@ -219,9 +219,9 @@ PRODUCT_PACKAGES += \
     NavbarSammyPixelLauncherOverlay \
     NavbarTecnoCamonPixelLauncherOverlay
 
-# Notification Themes
-#PRODUCT_PACKAGES += \
-#    NotifFluid
+# Aod wallpaper
+PRODUCT_PACKAGES += \
+    AODWALL
 
 # Power Menu Themes
 PRODUCT_PACKAGES += \
