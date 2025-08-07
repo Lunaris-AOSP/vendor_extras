@@ -247,5 +247,7 @@ PRODUCT_PACKAGES += \
 
 $(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 
+TARGET_PRODUCT_PROP += vendor/extras/gameprops/gameprops.prop
+
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/extras/prebuilt/product/media/audio/ui,$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui)
