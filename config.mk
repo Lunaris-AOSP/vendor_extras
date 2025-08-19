@@ -50,6 +50,11 @@ PRODUCT_PACKAGES += \
     IconPackNostalgicSettingsOverlay \
     IconPackNostalgicSystemUIOverlay \
     IconPackNostalgicThemePickerOverlay \
+    IconPackOOSAndroidOverlay \
+    IconPackOOSLauncherOverlay \
+    IconPackOOSSettingsOverlay \
+    IconPackOOSSystemUIOverlay \
+    IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
     IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
@@ -233,7 +238,6 @@ PRODUCT_PACKAGES += \
 # QS
 PRODUCT_PACKAGES += \
     BetterQS \
-    QSDualTone \
     QSNoAlpha
 
 # Themes
