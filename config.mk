@@ -241,7 +241,8 @@ PRODUCT_PACKAGES += \
 # QS
 PRODUCT_PACKAGES += \
     BetterQS \
-    QSDualTone
+    QSDualTone \
+    QSMedia
 
 # Themes
 PRODUCT_PACKAGES += \
