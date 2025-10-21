@@ -253,6 +253,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ScreenshotEditor
 
+ifeq ($(TARGET_CUSTOM_UDFPS),true)
+    PRODUCT_PACKAGES += \
+        UdfpsIcons \
+        UdfpsAnimations
+endif
+
 $(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 
 TARGET_PRODUCT_PROP += vendor/extras/gameprops/gameprops.prop
