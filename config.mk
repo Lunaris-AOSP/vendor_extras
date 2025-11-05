@@ -151,13 +151,9 @@ PRODUCT_PACKAGES += \
     LandscapeWiFiOverlay \
     LinearWiFiOverlay \
     NothingDotWiFiOverlay \
-    NumberWiFiOverlay \
     PlumpyWiFiOverlay \
     RoundWiFiOverlay \
-    ScaleWiFiOverlay \
-    SharpWiFiOverlay \
     SneakyWiFiOverlay \
-    SpiralWiFiOverlay \
     StrokeWiFiOverlay \
     WavyWiFiOverlay \
     XperiaWiFiOverlay \
@@ -189,7 +185,6 @@ PRODUCT_PACKAGES += \
 
 # QS
 PRODUCT_PACKAGES += \
-    BetterQS \
     QSDualTone \
     QSMedia
 
