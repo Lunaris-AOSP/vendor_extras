@@ -184,7 +184,8 @@ PRODUCT_PACKAGES += \
 
 # QS
 PRODUCT_PACKAGES += \
-    QSMedia
+    QSMedia \
+    QSAltShade
 
 # Themes
 PRODUCT_PACKAGES += \
