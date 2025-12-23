@@ -194,6 +194,9 @@ PRODUCT_PACKAGES += \
     ImmersiveNavigationOverlay
 
 PRODUCT_PACKAGES += \
+    SwitchSmile
+
+PRODUCT_PACKAGES += \
     ScreenshotEditor
 
 ifeq ($(TARGET_CUSTOM_UDFPS),true)
