@@ -1,4 +1,4 @@
-#
+.#
 # Copyright (C) 2018 The LineageOS Project
 #               2017-2024 crDroid Android Project
 #
@@ -210,6 +210,11 @@ PRODUCT_PACKAGES += \
     LinearWiFiOverlay \
     NothingDotWiFiOverlay \
     ZigZagWiFiOverlay
+
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset \
+    HideClock
 
 $(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 
