@@ -211,6 +211,11 @@ PRODUCT_PACKAGES += \
     NothingDotWiFiOverlay \
     ZigZagWiFiOverlay
 
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset \
+    HideClock
+
 $(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 
 TARGET_PRODUCT_PROP += vendor/extras/gameprops/gameprops.prop
