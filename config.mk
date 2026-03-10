@@ -160,6 +160,8 @@ PRODUCT_PACKAGES += \
     FontOswaldOverlay \
     FontPlayOverlay \
     FontQuandoOverlay \
+    FontRecursiveCasualOverlay \
+    FontRecursiveLinearOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
