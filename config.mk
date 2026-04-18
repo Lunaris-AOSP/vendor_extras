@@ -50,6 +50,8 @@ PRODUCT_PACKAGES += \
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+    fonts_customization_emoji_ios.xml \
+    fonts_customization_emoji_samsung.xml \
     ClockFontACFilmstripOverlay \
     ClockFontAccuratistOverlay \
     ClockFontAclonicaOverlay \
@@ -221,3 +223,6 @@ $(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/extras/prebuilt/product/media/audio/ui,$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui) \
     $(call find-copy-subdir-files,*,vendor/extras/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    persist.sys.ax_emoji_style=android
