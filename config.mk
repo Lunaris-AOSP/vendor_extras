@@ -51,10 +51,6 @@ PRODUCT_PACKAGES += \
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
-    fonts_customization_emoji_facebook.xml \
-    fonts_customization_emoji_ios.xml \
-    fonts_customization_emoji_samsung.xml \
-    fonts_customization_emoji_swiftui.xml \
     ClockFontACFilmstripOverlay \
     ClockFontAccuratistOverlay \
     ClockFontAclonicaOverlay \
